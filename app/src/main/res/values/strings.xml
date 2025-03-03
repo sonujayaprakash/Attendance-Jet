@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="title_activity_layout_demo">LayoutDemoActivity</string>
+    <string name="title_activity_register_login">RegisterLogin</string>
+</resources>
